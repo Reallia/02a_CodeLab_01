@@ -5,7 +5,7 @@ package com.cc.java;
 public class Konto {
     
     private int kontostand = 10000;
-    public static String input;
+    // public static String input;
 
     public int getKontostand() {
         return kontostand;
